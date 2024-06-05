@@ -17,3 +17,12 @@
 .star-rating label:hover, .star-rating label:hover ~ label {
     color: #f39c12;
 }
+
+td {
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
